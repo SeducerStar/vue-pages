@@ -74,6 +74,7 @@ var webpackConfig = {
       
     ]
   },
+  // 插件（Plugins）是用来拓展webpack功能的，它们会在整个构建过程中生效，执行相关的任务。
   plugins: [
 	/*
     // 提取公共模块
